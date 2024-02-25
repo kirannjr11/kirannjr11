@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **spring frameworks**
  
- 🌱 persuing Masters Degree in **International Trade** 
+ 🌱 pursuing Masters Degree in **International Trade** 
 
  🎓 **Computer Engineering Graduate**
 
@@ -48,8 +48,5 @@
   
   <br/><br/><br/>
 </div>
-
-<hr/>
-![snake gif](https://github.com/kirannjr11/kirannjr11/blob/output/github-contribution-grid-snake.gif)
 
 
