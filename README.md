@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **spring frameworks**
  
- 🌱 Student at **HABSIDA** coading academy
+ 🌱 Trainee at **HABSIDA** coading academy
 
  🎓 **Computer Engineering Graduate**
 
