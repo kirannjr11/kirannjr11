@@ -1,51 +1,72 @@
+# Hi there, I'm Santosh Dahit! 👋
 
+Welcome to my GitHub profile! I am a committed Backend Developer with a strong foundation in Computer Engineering, currently advancing my skills through a Master's program in Data Science at Kwangwoon University. My passion lies in developing robust backend systems and leveraging data science techniques to build innovative solutions. Dive into my repositories to discover the exciting projects I've been working on!
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+안녕하세요!+👋;+I'm+Kiran+Ghale;" />
-</h1>
+## 🛠 My Technical Stack
 
-<h3 align="center">java developer</h3>
+### Back end:
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png)
+![REST API](https://img.icons8.com/color/48/000000/api.png)
+![GraphQL](https://img.icons8.com/color/48/000000/graphql.png)
 
-<br/>
+### Front end:
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
+![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
+![Ajax](https://img.shields.io/badge/Ajax-007ACC?style=for-the-badge&logo=ajax&logoColor=white)
 
-<div align="center">
- 
- 🔭 I’m currently working on **spring frameworks**
- 
- 🌱 Spring Boot developer at **HABSIDA** coading academy
+### Database:
+![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
+![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
 
- 🎓 **Computer Engineering Graduate**
+### Other:
+![Git](https://img.icons8.com/color/48/000000/git.png)
+![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
+![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-25A162?style=for-the-badge&logo=mockito&logoColor=white)
 
- </div>
- 
-<div align="center"> 
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNwfvvSKtZzHTxXPgfRSCMSRNKzRCbvNCXcdRtfDdSfJzlssRFnkDvkXfSQWHhprWfkPFg">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/kiran-ghale-75b03a166/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://kiranghale.com/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+## 💼 Projects and Repositories
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,tailwind,git" /><br>
-    <img src="https://skillicons.dev/icons?i=react,javascript,java,spring,mysql,mongodb,postman" /><br>
-</div>
-<br/>
-<hr/>
+### Featured Projects
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kirannjr11/kirannjr11/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+1. **[Spring Boot with AJAX](https://github.com/SantoshDahit/Spring_boot_with_AJAX)**
+   - Integrating AJAX with Spring Boot for dynamic web applications.
+   - **Technologies**: Spring Boot, AJAX
 
+2. **[XMLHttpRequest](https://github.com/SantoshDahit/xmlhttprequest)**
+   - Handling asynchronous requests using XMLHttpRequest in JavaScript.
+   - **Technologies**: JavaScript, XMLHttpRequest
+
+3. **[Book Manager](https://github.com/SantoshDahit/Book_manager)**
+   - A comprehensive book management system.
+   - **Technologies**: Spring Boot, MySQL
+
+4. **[CRUD with Spring Boot and Bootstrap](https://github.com/SantoshDahit/CURD_with_springboot_and_bootstrap)**
+   - Implementing CRUD operations with a stylish front-end using Bootstrap.
+   - **Technologies**: Spring Boot, Bootstrap
+
+5. **[CRUD Operation - Spring Security with Hibernate](https://github.com/SantoshDahit/CURD_operation-Spring_security_with_hibernate)**
+   - Securing CRUD operations using Spring Security and Hibernate.
+   - **Technologies**: Spring Security, Hibernate
+
+6. **[Undergrad Projects](https://github.com/SantoshDahit/Undergrad_projects)**
+   - A collection of projects completed during my undergraduate studies.
+   - **Technologies**: Various
+
+### Other Repositories
+
+- **[Employee JDBC](https://github.com/SantoshDahit/employee_JDBC)**: Java-based employee management using JDBC.
+- **[Project Prerequisite](https://github.com/SantoshDahit/project_prerequiste)**: A foundational project for understanding prerequisites.
+
+## 📫 Let's Connect
+
+- **Email**: sanntoshdahit454@gmail.com
+- **LinkedIn**: [Santosh Dahit](https://www.linkedin.com/in/santosh-dahit/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=SantoshDahit&color=blue)
+
+---
+
+Let's connect and collaborate on exciting projects! Feel free to explore my repositories and reach out for any collaboration or discussion on backend development and data science.
