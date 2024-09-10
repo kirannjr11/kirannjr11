@@ -1,6 +1,7 @@
-# Hi there, I'm Santosh Dahit! 👋
+# Hi there, I'm Kiran Ghale! 👋
+# Java Developer
 
-Welcome to my GitHub profile! I am a committed Backend Developer with a strong foundation in Computer Engineering, currently advancing my skills through a Master's program in Data Science at Kwangwoon University. My passion lies in developing robust backend systems and leveraging data science techniques to build innovative solutions. Dive into my repositories to discover the exciting projects I've been working on!
+Welcome to my GitHub profile! I am a dedicated Java and Spring Boot developer with a strong foundation in Computer Engineering. I specialize in building scalable, high-performance backend applications using Java, Spring Boot, and modern frameworks. Explore my repositories to see the innovative solutions and projects I’ve been working on!
 
 ## 🛠 My Technical Stack
 
@@ -31,29 +32,26 @@ Welcome to my GitHub profile! I am a committed Backend Developer with a strong f
 
 ### Featured Projects
 
-1. **[Spring Boot with AJAX](https://github.com/SantoshDahit/Spring_boot_with_AJAX)**
-   - Integrating AJAX with Spring Boot for dynamic web applications.
-   - **Technologies**: Spring Boot, AJAX
+1. **[Spring Boot with SWAGGER integration](https://github.com/kirannjr11/ToDo)**
+   - Integrating Swagger for API documentation
+   - **Technologies**: Spring Boot, swagger
 
-2. **[XMLHttpRequest](https://github.com/SantoshDahit/xmlhttprequest)**
-   - Handling asynchronous requests using XMLHttpRequest in JavaScript.
+2. **[OAuth2](https://github.com/kirannjr11/Smart-Contact-Manager)**
+   - this repository contains the OAuth2 and Social Login (login with google)
    - **Technologies**: JavaScript, XMLHttpRequest
 
-3. **[Book Manager](https://github.com/SantoshDahit/Book_manager)**
-   - A comprehensive book management system.
-   - **Technologies**: Spring Boot, MySQL
+3. **[Live Score](https://github.com/kirannjr11/cricket_live)**
+   -Real time cricket score update using Spring Boot and Web Scraping.
+   - **Technologies**: Spring Boot, MySQL, Web scraping
 
-4. **[CRUD with Spring Boot and Bootstrap](https://github.com/SantoshDahit/CURD_with_springboot_and_bootstrap)**
-   - Implementing CRUD operations with a stylish front-end using Bootstrap.
-   - **Technologies**: Spring Boot, Bootstrap
+4. **[JWT Token](https://github.com/kirannjr11/JWT_SpringBoot)**
+   - Implementing JWT authentication in SpringBoot
+   - **Technologies**: Spring Boot, Jwt token
 
-5. **[CRUD Operation - Spring Security with Hibernate](https://github.com/SantoshDahit/CURD_operation-Spring_security_with_hibernate)**
-   - Securing CRUD operations using Spring Security and Hibernate.
-   - **Technologies**: Spring Security, Hibernate
+5. **[Language Translator](https://github.com/kirannjr11/Language_Translator)**
+   - language translator web app using html, css and javascript
+   - **Technologies**: Javascript, CSS, HTML
 
-6. **[Undergrad Projects](https://github.com/SantoshDahit/Undergrad_projects)**
-   - A collection of projects completed during my undergraduate studies.
-   - **Technologies**: Various
 
 ### Other Repositories
 
@@ -61,12 +59,12 @@ Welcome to my GitHub profile! I am a committed Backend Developer with a strong f
 - **[Project Prerequisite](https://github.com/SantoshDahit/project_prerequiste)**: A foundational project for understanding prerequisites.
 
 ## 📫 Let's Connect
+- **Phone Number**: +82-010-7739802
+- **Email**: ghalekiran03@gmail.com
+- **LinkedIn**: [Kiran Ghale](https://www.linkedin.com/in/kiranghale/)
 
-- **Email**: sanntoshdahit454@gmail.com
-- **LinkedIn**: [Santosh Dahit](https://www.linkedin.com/in/santosh-dahit/)
-
-![Profile Views](https://komarev.com/ghpvc/?username=SantoshDahit&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=kirannjr11&color=blue)
 
 ---
 
-Let's connect and collaborate on exciting projects! Feel free to explore my repositories and reach out for any collaboration or discussion on backend development and data science.
+Let's connect and collaborate on exciting projects! Feel free to explore my repositories and reach out for any collaboration or discussion on backend development.
