@@ -55,8 +55,8 @@ Welcome to my GitHub profile! I am a dedicated Java and Spring Boot developer wi
 
 ### Other Repositories
 
-- **[Employee JDBC](https://github.com/SantoshDahit/employee_JDBC)**: Java-based employee management using JDBC.
-- **[Project Prerequisite](https://github.com/SantoshDahit/project_prerequiste)**: A foundational project for understanding prerequisites.
+- **[CRUD operation with hibernate](https://github.com/kirannjr11/CRUD.hiberenate)**: Simple CRUD operation using hibernate and JDBC.
+- **[Project Prerequisite](https://github.com/kirannjr11/pre-pro_3_1_1)**: A foundational project for understanding prerequisites.
 
 ## 📫 Let's Connect
 - **Phone Number**: +82-010-7739802
