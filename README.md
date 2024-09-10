@@ -38,12 +38,12 @@ Welcome to my GitHub profile! I am a dedicated Java and Spring Boot developer wi
 
 2. **[OAuth2](https://github.com/kirannjr11/Smart-Contact-Manager)**
    - this repository contains the OAuth2 and Social Login (login with google)
-   - **Technologies**: JavaScript, XMLHttpRequest
+   - **Technologies**: SpringBoot
 
-3. **[Live Score](https://github.com/kirannjr11/cricket_live)**
-   -Real time cricket score update using Spring Boot and Web Scraping.
+3. **[Live Score](https://github.com/kirannjr11/cricket_live)**  
+   - Real time cricket score update using Spring Boot and Web Scraping
    - **Technologies**: Spring Boot, MySQL, Web scraping
-
+     
 4. **[JWT Token](https://github.com/kirannjr11/JWT_SpringBoot)**
    - Implementing JWT authentication in SpringBoot
    - **Technologies**: Spring Boot, Jwt token
