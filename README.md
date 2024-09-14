@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am a dedicated Java and Spring Boot developer wi
 ### Back end:
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
 ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png)
-![REST API](https://img.icons8.com/color/48/000000/api.png)
+![REST API](https://img.icons8.com/color/48/000000/api-settings.png)
 ![GraphQL](https://img.icons8.com/color/48/000000/graphql.png)
 ![Express](https://img.icons8.com/ios/48/000000/express-js.png)
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
