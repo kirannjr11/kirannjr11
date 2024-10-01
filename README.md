@@ -1,7 +1,7 @@
 # Hi there, I'm Kiran Ghale! 👋
-# Java Developer
+# Backend Developer
 
-Welcome to my GitHub profile! I am a dedicated Java and Spring Boot developer with a strong foundation in Computer Engineering. I specialize in building scalable, high-performance backend applications using Java, Spring Boot, and modern frameworks. Explore my repositories to see the innovative solutions and projects I’ve been working on!
+제 GitHub 프로필에 오신 것을 환영합니다! 저는 컴퓨터 공학에 대한 탄탄한 기반을 갖춘 헌신적인 Java 및 Spring Boot 개발자입니다. Java, Spring Boot, 그리고 최신 프레임워크를 사용하여 확장 가능하고 고성능의 백엔드 애플리케이션을 구축하는 데 특화되어 있습니다. 제가 작업해 온 혁신적인 솔루션과 프로젝트를 보시려면 제 레포지토리를 탐색해보세요!
 
 ## 🛠 My Technical Stack
 
