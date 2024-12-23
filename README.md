@@ -18,6 +18,9 @@
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
 ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
 ![Ajax](https://img.shields.io/badge/Ajax-007ACC?style=for-the-badge&logo=ajax&logoColor=white)
+![React](https://img.icons8.com/color/48/000000/react.png)
+![React Native](https://img.icons8.com/color/48/000000/react-native.png)
+
 
 ### Database:
 ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
